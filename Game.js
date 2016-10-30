@@ -1,3 +1,7 @@
+/*
+    Dor Grinshpan, 30/10/2016.
+    dorgrin6@gmail.com
+*/
 var numOfFaces = 5;
 var level = 0;
 var score = 0;
