@@ -7,4 +7,4 @@ To play just download the folder and press the html file.
 ## How to play
 Press the extra smiling face which is found in the left side of the screen but not the right.
 
-### This game was made by Dor Grinshpan.
+This game was made by Dor Grinshpan.
